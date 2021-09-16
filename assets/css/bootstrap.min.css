@@ -27,6 +27,7 @@
     --danger: #dc3545;
     --light: #f8f9fa;
     --dark: #343a40;
+    --nav: #89b5a2;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
@@ -6432,6 +6433,10 @@ button.bg-dark:hover {
 
 .bg-transparent {
     background-color: transparent!important
+}
+
+.bg-nav {
+    background-color: #89b5a2!important;
 }
 
 .border {
