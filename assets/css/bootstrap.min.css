@@ -4487,7 +4487,7 @@ input[type=submit].btn-block {
 }
 
 .navbar-light .navbar-brand {
-    color: rgba(0, 0, 0, .9)
+    color: #ffefef;
 }
 
 .navbar-light .navbar-brand:focus,
@@ -4512,7 +4512,7 @@ input[type=submit].btn-block {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: rgba(0, 0, 0, .9)
+    color: #ffefef;
 }
 
 .navbar-light .navbar-toggler {
