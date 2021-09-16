@@ -17,11 +17,11 @@ authors:
   Pap:
     name: "Pap"
     display_name: "Pap"
-    gravatar: "
-    email: "
-    web: "
-    twitter: "
-    description: "
+    gravatar: ""
+    email: ""
+    web: ""
+    twitter: ""
+    description: ""
 
 # Plugins
 plugins:
