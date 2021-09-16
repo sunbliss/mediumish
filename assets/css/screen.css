@@ -557,7 +557,8 @@ ul.tags li a:hover {
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: #fff;
+    color: #ffefef;
+    background-color: #916a70;
     width: 100%;
     padding: 14px 0;
     z-index: 1;
