@@ -47,16 +47,12 @@ ga('send', 'pageview');
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/"> BLOG
+    <a class="navbar-brand" href="{{ site.baseurl }}/"> MF
    <!--  <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}"> -->
     </a>
     <!-- End Logo -->
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarMediumish">
+    <div class="navbar" id="navbarMediumish">
 
         <!-- Begin Menu -->
 
@@ -67,7 +63,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="https://www.papachristos.gr">ΠΡΑΚΤΟΡΕΙΟ ΑΣΦΑΛΕΙΩΝ Γ.ΠΑΠΑΧΡΗΣΤΟΣ Α.Ε.</a>
+                <a class="navbar-title" href="{{ site.baseurl }}/">ΙΣΤΟΛΟΓΙΟ</a>
                 </li>
 
                 {% include search-lunr.html %}
