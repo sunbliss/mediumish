@@ -4486,11 +4486,15 @@ input[type=submit].btn-block {
 
 .navbar-light .navbar-brand {
     color: #ffefef;
+    transition: color .4s;
 }
 
 .navbar-light .navbar-brand:focus,
 .navbar-light .navbar-brand:hover {
-    color: rgba(0, 0, 0, .9)
+    -webkit-transition: color .3s;
+    -moz-transition: color .3s;
+    transition: color .3s;
+    text-shadow: -0.025em -0.025em 0 rgb(255 239 239 / 25%), 0.025em -0.025em 0 rgb(255 239 239 / 25%), -0.025em 0.025em 0 rgb(255 239 239 / 25%), 0.025em 0.025em 0 rgb(255 239 239 / 25%);
 }
 
 .navbar-light .navbar-nav .nav-link {
