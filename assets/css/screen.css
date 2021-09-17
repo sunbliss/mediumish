@@ -728,18 +728,18 @@ img {
     padding: 15px 0 0 0;
     text-align: center;
     margin-bottom: 0rem;
-    color: #999;
-    border-top: 1px solid #ddd;
+    color: #916a70;
+    border-top: 1px solid #916a70;
 }
 
 .pointerup {
-    margin-bottom: -17px;
+    margin-bottom: -26px;
     margin-left: 49%;
     font-size: 30px;
 }
 
 .pointerup i.fa {
-    color: #eaeaea;
+    color: #916a70;
 }
 
 .bottompagination span.navigation i {
