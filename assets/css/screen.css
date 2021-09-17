@@ -295,6 +295,9 @@ span.post-read-more a:hover {
 
 a.navbar-title {
     color: #ffefef;
+    display: block;
+    margin-right: 2.5rem;
+    padding: .5rem 1rem;
 }
 
 .mediumnavigation .search-icon {
