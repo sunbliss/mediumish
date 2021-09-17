@@ -1930,11 +1930,11 @@ pre code {
 }
 
 .form-control:focus {
-    color: #495057;
+    color: #654a4e;
     background-color: #fff;
-    border-color: #80bdff;
+    border-color: rgb(224 198 202);
     outline: 0;
-    box-shadow: 0 0 0 .2rem rgba(0, 123, 255, .25)
+    box-shadow: 0 0 0 0.1rem rgb(224 198 202 / 25%);
 }
 
 .form-control::-webkit-input-placeholder {
