@@ -293,6 +293,10 @@ span.post-read-more a:hover {
     margin-right: 14rem;
 }
 
+a.navbar-title {
+    color: #ffefef;
+}
+
 .mediumnavigation .search-icon {
     margin-left: -40px;
     display: inline-block;
