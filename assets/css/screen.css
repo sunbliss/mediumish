@@ -290,7 +290,7 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
-    margin-right: 14rem;
+   /* margin-right: 14rem; */
 }
 
 a.navbar-title {
