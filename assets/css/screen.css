@@ -583,15 +583,12 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
+    background-color: #654a4e;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
-    border-radius: 0;
+    border: 0;
     padding: 4px 10px;
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
     font-weight: 600;
     height: 34px;
     letter-spacing: 0.5px;
