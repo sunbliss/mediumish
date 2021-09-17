@@ -802,6 +802,10 @@ pre code {
     max-width: 100%
 }
 
+.col-12.col-md-12.col-lg-7 {
+    padding-left: 0;
+}
+
 .order-first {
     -ms-flex-order: -1;
     order: -1
