@@ -394,7 +394,8 @@ blockquote {
 }
 
 .sticky-top-offset {
-    top: 100px;
+    top: 0;
+    padding-top: 150px;
 }
 
 @media (min-width:1024px) {
