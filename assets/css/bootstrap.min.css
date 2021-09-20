@@ -393,6 +393,10 @@ h6 {
     color: #654a4e;
 }
 
+h2.d-md-block.align-self-center.py-1.font-weight-light {
+    color: #ffefef;
+}
+
 .h1,
 h1 {
     font-size: 2.5rem
