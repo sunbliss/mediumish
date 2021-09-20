@@ -482,7 +482,7 @@ blockquote {
 
 .share,
 .share a {
-    color: rgba(0, 0, 0, .44);
+    color: rgb(101 74 78);
     fill: rgba(0, 0, 0, .44);
 }
 
@@ -509,14 +509,13 @@ ul.tags li {
 }
 
 ul.tags li a {
-    background: rgba(0, 0, 0, .05);
-    color: rgba(0, 0, 0, .6);
-    border-radius: 3px;
+    background: rgb(145 106 112);
+    color: rgb(255 239 239);
     padding: 5px 10px;
 }
 
 ul.tags li a:hover {
-    background: rgba(0, 0, 0, .07);
+    background: rgb(101 74 78);
     text-decoration: none;
 }
 
