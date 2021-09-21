@@ -807,12 +807,12 @@ pre code {
     max-width: 100%
 }
 
-.col-12.col-md-12.col-lg-7 {
+.col-12.col-md-12.col-lg-7, .col-12.col-md-12.col-lg-5.pr-lg-0 {
 	background-color: #e0c6ca;
 }
 
 .featured-posts.col-md-6.mb-30px {
-	box-shadow: rgb(145 106 112 / 15%) 20px 0px 24px;
+	box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
         transition: box-shadow 0.4s ease-out;
 }
 
