@@ -811,6 +811,16 @@ pre code {
 	background-color: #e0c6ca;
 }
 
+.col-md-6.mb-30px {
+	box-shadow: rgb(145 106 112 / 15%) 20px 0px 24px;
+    transition: box-shadow 0.4s ease-out;
+}
+
+.col-md-6.mb-30px:hover {
+	box-shadow: rgb(145 106 112 / 25%) 20px 0px 24px;
+    transition: box-shadow 0.4s ease-out;
+}
+
 .order-first {
     -ms-flex-order: -1;
     order: -1
