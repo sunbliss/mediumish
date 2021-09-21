@@ -2,8 +2,10 @@
 layout: post
 title:  "FIRST BLOG"
 author: Pap
-categories: [ Jekyll, tutorial ]
+categories: [ book, tutorial ]
+tags: [blog, article]
 image: assets/images/12.jpg
+description: "First article"
 featured: true
 ---
 
