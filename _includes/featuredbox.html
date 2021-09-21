@@ -1,6 +1,6 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-<div class="col-md-6 mb-30px">
+<div class="featured-posts col-md-6 mb-30px">
     <div class="listfeaturedtag h-100">
         <div class="row h-100">
             <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
@@ -42,11 +42,11 @@
                                 {% endif %}
                                 </span>
                                 <span class="author-meta">
-                                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                                <span class="post-name"><a target="_blank" href="">{{ author.display_name }}</a></span><br/>
                                 {% endif %}
                                 <span class="post-date">{{ post.date | date_to_string }}</span>
                                 </span>
-                                <span class="post-read-more"><a href="{{ site.baseurl }}{{ post.url }}">More</a></span>
+                                <span class="post-read-more"><a href="{{ site.baseurl }}{{ post.url }}">Περισσότερα ...</a></span>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
