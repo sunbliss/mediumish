@@ -7,7 +7,6 @@ favicon: "assets/images/logo.ico"
 url: "https://sunbliss.github.io"
 baseurl: "/mediumish"
 google_analytics: ""
-disqus: ""
 mailchimp-list: ""
 include: ["_pages"]
 permalink: "/:title/"
